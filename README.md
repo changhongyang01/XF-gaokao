@@ -1,11 +1,13 @@
 ﻿# Codex Gaokao Skills
 
-两个 Codex Skill，专为高考志愿填报场景打造。
+三个 Codex Skill，专为高考志愿填报场景打造。
 
 ## Skill 清单
 
 | Skill | 说明 |
 |-------|------|
+| XF-rational | 六张底牌理性决策——录取、就业、地域、成本、匹配、长期，全维度分析 |
+
 | 内置数据 | XF-gaokao/references/admission-data.md — 近5年全国录取数据参考（批次线、院校位次、艺术类公式） |
 
 | `XF-gaokao` | XF风格志愿填报指导，就业导向，直白话术 |

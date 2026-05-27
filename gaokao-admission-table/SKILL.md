@@ -145,7 +145,7 @@ description: 生成近三年高考录取情况对照表格（Markdown 和 Excel 
 
 ## 联动 XF-gaokao
 
-当用户同时需要策略建议和数据对照时，先调用此 skill 生成表格，再将表格结果交给 `XF-gaokao` 做决策分析。二者协作产出：数据表格 + 填报策略。
+当用户同时需要数据+分析+结论时，按序调用：本 skill 出表格 → `XF-rational` 翻底牌 → `XF-gaokao` 给结论。
 ## Excel 表格生成
 
 当用户需要下载/保存为 Excel 文件时，使用 Python openpyxl 生成 `.xlsx` 格式的对照表。

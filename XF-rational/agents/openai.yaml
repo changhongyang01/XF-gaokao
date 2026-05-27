@@ -1,0 +1,4 @@
+﻿name: XF-rational
+display_name: XF理性决策
+short_description: 六张底牌全翻——录取概率、就业实况、地域账、经济账、个人匹配、长期趋势，逐项分析
+default_prompt: 帮我在人大法学和复旦经济之间做个理性分析，我家境普通，以后想考公
