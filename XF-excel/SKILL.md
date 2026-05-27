@@ -24,11 +24,11 @@ description: 生成完整的高考志愿 Excel 表格（.xlsx），双击直接�
 ```json
 {
   "user": {
-    "province": "河南",
-    "type": "美术类",
-    "cultural": 350,
-    "professional": 203,
-    "comprehensive": 428.75
+    "province": "上海",
+    "type": "政史地",
+    "score": 538,
+    "batch_line": 503,
+    "comprehensive": 538
   },
   "targets": [
     {
