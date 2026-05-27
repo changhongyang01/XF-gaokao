@@ -1,4 +1,4 @@
 ﻿name: gaokao-admission-table
 display_name: 高考录取对照表
 short_description: 生成近三年录取分数线、位次、招生人数对比表格，支持冲稳保评估
-default_prompt: 我想看XX大学近三年在河南的录取分数对比
+default_prompt: 华东政法、苏大、上大近三年在上海的录取分数对比，政史地538分
