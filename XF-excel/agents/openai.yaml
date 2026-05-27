@@ -1,4 +1,4 @@
 ﻿name: XF-excel
 display_name: XF志愿Excel
-short_description: 一键生成完整Excel工作簿——冲稳保总览+三年趋势+院校详情+费用概算+柱状图
+short_description: 一键生成完整Excel工作簿，双击直接打开——冲稳保总览+三年趋势+院校详情+费用概算+柱状图
 default_prompt: 把我这几个志愿学校生成一份完整的Excel表格

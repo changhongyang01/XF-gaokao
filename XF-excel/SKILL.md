@@ -1,6 +1,6 @@
 ﻿---
 name: XF-excel
-description: 生成完整的高考志愿 Excel 表格（.xlsx），包含冲稳保总览、近三年趋势、院校详情、费用概算四个 Sheet 和分数走势柱状图。当用户要求"生成Excel"、"导出表格"、"下载excel"、"做一个excel"、"完整的表格"时使用。输入数据后调用 scripts/generate.py 生成文件。
+description: 生成完整的高考志愿 Excel 表格（.xlsx），双击直接打开。包含冲稳保总览、近三年趋势、院校详情、费用概算四个 Sheet 和分数走势柱状图。生成后自动告知文件路径供直接打开。当用户要求"生成Excel"、"导出表格"、"下载excel"、"做一个excel"、"完整的表格"时使用。输入数据后调用 scripts/generate.py 生成文件。
 ---
 
 # XF Excel 表格生成
@@ -73,6 +73,12 @@ python scripts/generate.py data.json
 - `XF-gaokao` → 冲稳保判断
 
 然后组装 JSON 调用生成脚本。
+
+## 输出文件
+
+生成的 .xlsx 文件存储在用户指定路径，可直接双击打开（关联 Excel/WPS）。
+
+生成后自动告知文件路径，用户点击路径即可打开。
 
 ## 输出铁律
 
