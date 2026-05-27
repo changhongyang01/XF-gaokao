@@ -11,5 +11,6 @@ __pycache__/
 
 # IDE
 .vscode/
-.idea/*.xlsx
+.idea/
+*.xlsx
 ~$*

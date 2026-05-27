@@ -9,7 +9,7 @@
 | XF-excel | 一键生成完整 Excel 工作簿——四张 Sheet + 柱状图，红黄绿冲稳保色标 |
 | XF-rational | 六张底牌理性决策——录取、就业、地域、成本、匹配、长期，全维度分析 |
 
-| 内置数据 | XF-gaokao/references/admission-data.md — 近5年全国录取数据参考（批次线、院校位次、艺术类公式） |
+| 内置数据 | XF-gaokao/references/admission-data.md — 近5年全国录取数据参考 + 31省分数体系总览（总分/科目/赋分/分段分布）（批次线、院校位次、艺术类公式） |
 
 | `XF-gaokao` | XF风格志愿填报指导，就业导向，直白话术 |
 | `gaokao-admission-table` | 近三年录取数据对照表（Markdown + Excel），冲稳保评估，含学费对比 |
