@@ -6,6 +6,7 @@
 
 | Skill | 说明 |
 |-------|------|
+| XF-excel | 一键生成完整 Excel 工作簿——四张 Sheet + 柱状图，红黄绿冲稳保色标 |
 | XF-rational | 六张底牌理性决策——录取、就业、地域、成本、匹配、长期，全维度分析 |
 
 | 内置数据 | XF-gaokao/references/admission-data.md — 近5年全国录取数据参考（批次线、院校位次、艺术类公式） |
